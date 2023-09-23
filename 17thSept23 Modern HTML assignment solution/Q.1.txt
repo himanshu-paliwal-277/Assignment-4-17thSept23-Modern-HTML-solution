@@ -1,0 +1,11 @@
+HTML5:
+
+HTML(Hyper Text Markup Language) is created in 1991. The HTML5 is a 5th version of HTML after a HTML4. HTML5 provide more features.
+
+Features of HTML5:
+
+1. HTML5 provide more tags and attributes.
+2. HTML5 provide the semantics tag like- <header>,<nav>,<section>,<aside>,<footer> and etc.
+3. HTML5 provide a video tag and audio tag so it is to use a media in websites.
+4. HTML5 provide a API.
+5. HTML5 increases the accessiblity and SEO.

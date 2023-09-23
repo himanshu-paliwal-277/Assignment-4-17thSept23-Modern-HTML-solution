@@ -1,0 +1,11 @@
+HTML Entites:
+
+HTML entites is a word or string which is start with & and end with ; And HTML entities is used to print and render the special symbol and reserved character like angular bracket.
+
+HTML Entites    Name of Entites         Render in webpage
+
+ &copy;           CopyRight                    ©
+ &euro;           Euro symbol                  €
+ &pound;          Pound symbol                 £
+ &lt;             less than symbol             <
+ &gt;             greater than symbol          >

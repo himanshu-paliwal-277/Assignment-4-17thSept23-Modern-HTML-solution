@@ -1,0 +1,12 @@
+Improving Accessiblity:
+
+1. To Improving accessiblity Use headings properly. Don't use over tag to give headings. It
+   is good practice if the more important headings is in <h1> tag.
+
+2. Use ARIA(Accessible Rich Internet Applications) attributes to improve accessiblity.
+
+3. Use labels to form input tags to Improving accessiblity.
+
+4. Use proper semantics tag.
+
+5. Add alt text to images so if any error and issue with image then alternate text display.

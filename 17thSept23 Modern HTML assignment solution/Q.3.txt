@@ -1,0 +1,10 @@
+Accessiblity:
+
+Accessiblity is a practice of making website. so over website can be access and use by different user or a person with disablity and without any limitation & barriers.
+
+It is very difficult to created a accessible website. In accessible website the tag use in a proper manner and use the semantics tag because its increases the accessiblity and SEO. The ARIA(Accessible Rich Internet Applications) attributes are use to created an acc websites.
+
+Every time you not needs to created an accessible website since if you build a website which use by over tech team and a some tech person so, its not require to build website accessible. The accessiblity features takes a time and money.
+
+accessible website helps different category of person to easly access the website. If person with visual problem can access the website by voice and website is also be accessible by a keyboard input and mouse input. In mobile there is touch support. This is all kind of accessiblity. 
+
